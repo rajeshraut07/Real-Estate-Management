@@ -190,23 +190,6 @@ http://localhost:5173
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Property Listing Page
-* Property Details Page
-* Login Page
-* Registration Page
-* Admin Dashboard
-
-Example:
-
-```markdown
-![Home Page](screenshots/home.png)
-```
-
 ---
 
 ## 🔒 Security Notes
